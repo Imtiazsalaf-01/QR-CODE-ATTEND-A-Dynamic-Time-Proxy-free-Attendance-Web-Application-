@@ -1,9 +1,12 @@
+
+
+
+# QR CODE ATTEND  ( A Dynamic Time & Proxy free Attendance Web Application )
+# @ Innovate Intern  8 weeks internship
+
 <div align="center">
   <h1>Attendence-System</h1>
 </div>
-
-
-
 
 ## Getting Started
 
